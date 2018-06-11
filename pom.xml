@@ -41,7 +41,7 @@
 <distributionManagement>
     <repository>
         <id>deploymentRepo</id>
-        <name>internal-release</name>
+        <name>internal-releases</name>
         <url>http://34.238.114.164:8081/nexus/content/repositories/devops/</url>
     </repository>
    
