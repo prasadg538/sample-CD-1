@@ -4,7 +4,7 @@
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>my-maven</artifactId>
   <packaging>jar</packaging>
-  <version>4.0.0</version>
+  <version>5.0.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
@@ -42,7 +42,7 @@
     <repository>
         <id>deploymentRepo</id>
         <name>internal-release</name>
-        <url>http://34.239.122.138:8081/nexus/content/repositories/tech1/</url>
+        <url>http://34.238.114.164:8081/nexus/content/repositories/devops/</url>
     </repository>
    
 </distributionManagement>
